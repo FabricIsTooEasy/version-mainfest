@@ -1,0 +1,26 @@
+{
+  "latest": {
+    "release": "1.6.4-MITE-R195",
+    "snapshot": "1.6.4-MITE-R196"
+  },
+  "versions": [
+    {
+      "id": "1.6.4-MITE-R195",
+      "type": "release",
+      "url": "https://github.com/FabricIsTooEasy/version-mainfest/raw/main/versions/1.6.4-MITE-R195/1.6.4-MITE-R195.json",
+      "time": "2013-09-19T15:52:37+00:00",
+      "releaseTime": "2013-09-19T15:52:37+00:00",
+      "sha1": "787ecc4750ab547a09add7ca00ea09955ddea575",
+      "complianceLevel": 1
+    },
+    {
+      "id": "1.6.4-MITE-R196",
+      "type": "release",
+      "url": "https://github.com/FabricIsTooEasy/version-mainfest/raw/main/versions/1.6.4-MITE-R195/1.6.4-MITE-R196.json",
+      "time": "2013-09-19T15:52:37+00:00",
+      "releaseTime": "2013-09-19T15:52:37+00:00",
+      "sha1": "787ecc4750ab547a09add7ca00ea09955ddea575",
+      "complianceLevel": 1
+    }
+  ]
+}
